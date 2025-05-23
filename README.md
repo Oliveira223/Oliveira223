@@ -2,17 +2,19 @@
 
 My name is **Pedro H. N. Oliveira**, I'm a **Computer Engineering student** who loves to understand how things work — from hardware to software.
 
+### 🚀 Projects
+
+- [Company Website](https://oliveira223.github.io/bHorses/)
+- Bulls and Cows Game on FPGA
+- Embedded Systems Experiments
+
 ### 🔭 Currently Learning
 
 - Assembly (MIPS)
 - Verilog / SystemVerilog (FPGA design)
 - HTML & CSS (Web development basics)
 
-## 🚀 Projects
 
-- [Company Website](https://oliveira223.github.io/bHorses/)
-- Bulls and Cows Game on FPGA
-- Embedded Systems Experiments
 
 ### 📫 Contact me
 
