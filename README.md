@@ -28,4 +28,5 @@ My name is **Pedro H. N. Oliveira**, I'm a **Computer Engineering student** who 
 
 ---
 
-> "If you can't explain it simply, you don't understand it well enough."
+> "If at first you don’t succeed; call it version 1.0."
+
