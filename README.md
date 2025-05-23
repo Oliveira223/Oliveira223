@@ -24,9 +24,9 @@ My name is **Pedro H. N. Oliveira**, I'm a **Computer Engineering student** who 
 ### 🗺️ Languages
 
 - 🇧🇷 Native: Portuguese
-- 🇺🇸 English — Intermediate (B1/B2)
+- 🇺🇸 English — Intermediate (B1/B2) 
+##
 
----
 
-> "If at first you don’t succeed; call it version 1.0."
+> _"If at first you don’t succeed; call it version 1.0."_
 
