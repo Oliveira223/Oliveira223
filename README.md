@@ -8,12 +8,32 @@ My name is **Pedro H. N. Oliveira**, I'm a **Computer Engineering student** who 
 - Verilog / SystemVerilog (FPGA design)
 - HTML & CSS (Web development basics)
 
-### 🌱 Personal Projects
+## 🚀 Notable Projects
 
-- Digital systems on FPGA
-- Embedded systems experiments
-- [🌐 My personal website](https://oliveira223.github.io/bHorses/) — simple, clean and always evolving
+### 🔷 Website for a Company
 
+- [🌐 Visit the Website](https://oliveira223.github.io/bHorses/)
+- ✅ Fully designed, developed, and deployed by me
+- 🏢 Real project for a company
+- 🔧 Built with HTML, CSS and deployed on GitHub Pages
+- 🎯 Focused on simplicity, responsiveness, and performance
+
+---
+
+### 🔸 FPGA — Bulls and Cows Game
+
+- 🎮 A number guessing game implemented entirely in Verilog
+- 🔗 Runs on a Nexys A7 FPGA board
+- 🧠 Includes state machines, combinational and sequential logic
+- 📄 Simulation tested with QuestaSim before FPGA synthesis
+
+---
+
+### 🔹 Embedded Systems Projects
+
+- 💡 Experiments with microcontrollers (Arduino, etc.)
+- 🔌 Digital logic circuits and automation
+- 🧰 Focused on learning hardware-level programming and electronics
 ### 📫 Contact me
 
 - 📧 [Email](mailto:oliveira.phno@gmail.com)  
