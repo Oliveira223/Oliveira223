@@ -18,7 +18,7 @@ My name is **Pedro H. N. Oliveira**, I'm a **Computer Engineering student** who 
 
 ### 📫 Contact me
 
-- 📧 [Email](mailto:oliveira.phno@gmail.com)  
+- 📧 Email: oliveira.phno@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrooliveira223/)
 
 ### 🗺️ Languages
