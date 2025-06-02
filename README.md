@@ -4,7 +4,7 @@ My name is **Pedro H. N. Oliveira**, I'm a **Computer Engineering student** who 
 
 ### 🚀 Projects
 
-- [Company Website](https://oliveira223.github.io/bHorses/)
+- [Company Website](https://blackhorses.com.br)
 - Bulls and Cows Game on FPGA
 - Embedded Systems Experiments
 
