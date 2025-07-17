@@ -12,10 +12,10 @@ Seeking opportunities to develop and enhance my skills in computing, with a focu
 - Embedded Systems Experiments
 
 ### 🔭 Currently Learning
-
+- C++ (data structures & algorithms)
 - Assembly (MIPS)
 - Verilog / SystemVerilog (FPGA design)
-- HTML & CSS (Web development basics)
+- HTML · CSS · JS (Web development)
 
 
 
