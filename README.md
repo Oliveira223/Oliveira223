@@ -6,8 +6,8 @@ Seeking opportunities to develop and enhance my skills in computing, with a focu
 
 ### 🚀 Projects
 
-- Martial Arts School [Website](https://blackhorses.com.br)
 - Real State Company [Website](https://imoveisbresolin.com.br)
+- Martial Arts School [Website](https://blackhorses.com.br)
 - Bulls and Cows Game on FPGA
 - Embedded Systems Experiments
 
