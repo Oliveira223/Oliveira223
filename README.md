@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my GitHub
 
-My name is **Pedro H. N. Oliveira**, I'm a **Computer Engineering student** who loves to understand how things work — from hardware to software.
+My name is **Pedro H. N. Oliveira**, I'm a **Computer Engineering student** who loves to understand how things work - from hardware to software.
 
 Seeking opportunities to develop and enhance my skills in computing, with a focus on embedded systems and microelectronics.
 
@@ -27,7 +27,7 @@ Seeking opportunities to develop and enhance my skills in computing, with a focu
 ### 🗺️ Languages
 
 - 🇧🇷 Native: Portuguese
-- 🇺🇸 English — Intermediate (B1/B2) 
+- 🇺🇸 English - Intermediate (B1/B2) 
 ##
 
 
