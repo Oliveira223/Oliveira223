@@ -12,9 +12,9 @@ Seeking opportunities to develop and enhance my skills in computing, with a focu
 - Embedded Systems Experiments
 
 ### 🔭 Currently Learning
-- C++ (data structures & algorithms)
+- C++ (STL, pointers, basic data structures)
 - Assembly (MIPS)
-- Verilog / SystemVerilog (FPGA design)
+- Verilog / SystemVerilog (basic FPGA design, combinational & sequential logic)
 - HTML · CSS · JS (Web development)
 
 
@@ -27,8 +27,8 @@ Seeking opportunities to develop and enhance my skills in computing, with a focu
 ### 🗺️ Languages
 
 - 🇧🇷 Native: Portuguese
-- 🇺🇸 English - Intermediate (B1/B2) 
-##
+- 🇺🇸 English - Intermediate
+
 
 
 > _"If at first you don’t succeed; call it version 1.0."_
