@@ -22,7 +22,7 @@ Seeking opportunities to develop and enhance my skills in computing, with a focu
 ### Contact me
 
 - Email: oliveira.phno@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/pedrooliveira223/)
+- LinkedIn: [pedrooliveira223](https://www.linkedin.com/in/pedrooliveira223/)
 
 ### Languages
 
