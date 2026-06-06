@@ -4,6 +4,8 @@ to understand how things work - from hardware to software.
 Seeking opportunities to develop and enhance my skills in computing, with a focus on 
 embedded systems and microelectronics.
 
+**Portfolio:** [oliveira223.com.br](https://oliveira223.com.br)
+
 ### Projects
 - Real State Company Dynamic [Website](https://imoveisbresolin.com.br)
 - Martial Arts School Static [Website](https://blackhorses.com.br)
