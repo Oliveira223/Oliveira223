@@ -7,7 +7,7 @@ embedded systems and microelectronics.
 **Portfolio:** [oliveira223.com.br](https://oliveira223.com.br)
 
 ### Projects
-- Real State Company Dynamic [Website](https://imoveisbresolin.com.br)
+- Two Real State Company Dynamic Websites: [Website1](https://imoveisbresolin.com.br) [Website2](https://imoveisenderecocerto.com.br)
 - Martial Arts School Static [Website](https://blackhorses.com.br)
 - Home Server: CasaOS, Jellyfin and Minecraft server via Cloudflare Tunnel
 - Embedded Systems Experiments
